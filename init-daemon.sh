@@ -1,4 +1,4 @@
-
+#init-daemon for each repository
 for dir in $(ls)
 do 
     pushd $dir
