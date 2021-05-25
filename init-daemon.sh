@@ -6,6 +6,8 @@ do
     echo "initial commit"| git commit
     popd
 done
+git init
+echo "initial commit" | git init
 which ssh-keygen
 ssh-keygen -o
 sudo adduser git
